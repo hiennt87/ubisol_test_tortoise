@@ -119,6 +119,7 @@ int main()
 	}*/
 	KhoangCachNgay(30,12,2013);
 	cout<<"finish"<<endl;
+	cout<<"1 thang them moi "<<endl;
 	return 0;
 }
 
